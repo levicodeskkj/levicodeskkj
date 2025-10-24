@@ -31,6 +31,14 @@
 
 ##
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=003366&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Minhas+redes+sociais+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+##
+
 <div>
   <a href="https://www.youtube.com/@leviathankkjj" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
