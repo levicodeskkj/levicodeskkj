@@ -15,18 +15,17 @@
 ## Sobre mim 🤖
 
 - 🎥 **No YouTube**  
-  Falo sobre tecnologia, software, gadgets e tudo o que envolve o universo tech.  
+  Falo sobre **root**, **desbloqueio de bootloader**, **custom ROMs** e **otimização de Android**. Aqui, a ideia é transformar seu dispositivo em algo único e otimizado, sem limites impostos pelas grandes empresas.  
   [Dá um pulo lá no canal](https://www.youtube.com/@leviathankkjj) 📺
 
-- 🌱 **Engenharia de Software**  
-  Tô na jornada de me tornar um engenheiro de software completo, aprendendo e praticando todo dia. Vamos evoluir juntos!
+- 🌱 **Cursando TI**  
+  A tempos aprendendo tudo sobre Android, desbravando sistemas, programação e, claro, como modificar e personalizar dispositivos para tirarem o máximo proveito do que têm.
 
-- 💡 **Filosofia**  
-  Sou apaixonado por otimizar sistemas e dispositivos. Acho que todo mundo deveria ter controle total sobre seu equipamento.  
-  Essa parada de desbloquear bootloader, fazer root e usar ROMs personalizadas? Isso sim é **libertação**! 💥
+- 💥 **O que penso**  
+  Acredito que, ao fazer root, desbloquear bootloaders e customizar ROMs, recuperamos o controle total sobre os nossos dispositivos. Isso é libertação! Quero sempre otimizar tudo, seja um sistema Android, um computador ou até um código. A liberdade tecnológica é essencial.
 
 - 📬 **Me chama!**  
-  Quer bater um papo sobre tech? Só me mandar um e-mail: [leviathanbusinessofc@outlook.com](mailto:leviathanbusinessofc@outlook.com) ✌️
+  Se quiser trocar uma ideia sobre **root**, **Android**, **custom ROMs** ou qualquer outra coisa, me manda um e-mail: [leviathanbusinessofc@outlook.com](mailto:leviathanbusinessofc@outlook.com) ✌️
 
 ---
 
@@ -45,17 +44,17 @@
 
 ## Resumo básico de cada linguagem 📚
 
-- **Java**: Uma das linguagens mais populares para desenvolvimento de aplicativos empresariais, sistemas de backend e aplicativos Android. É robusta e segura, com ampla utilização em ambientes corporativos.
+- **Java**: Ideal para desenvolvimento Android, além de ser muito usada em sistemas corporativos e aplicações de backend. Robusta, confiável e com uma enorme comunidade.
 
-- **Python**: Muito usado para automação, análise de dados, IA, e também no desenvolvimento de sistemas. Sua sintaxe simples e poderosa a torna ideal para protótipos rápidos e aplicações científicas.
+- **Python**: A queridinha de quem quer automatizar tarefas, analisar dados ou desenvolver sistemas rapidamente. Seu poder está na simplicidade e flexibilidade.
 
-- **HTML**: A espinha dorsal da web! Utilizada para estruturar o conteúdo de páginas web. Combinada com CSS e JavaScript, ela dá vida ao design e à interatividade das páginas.
+- **HTML**: Essencial para qualquer desenvolvimento web. É a estrutura das páginas e, quando combinado com CSS e JavaScript, cria a experiência visual e interativa da web.
 
-- **Kotlin**: Ideal para desenvolvimento Android moderno, sendo uma alternativa mais concisa e poderosa ao Java. Utilizada tanto para apps móveis quanto para back-end com frameworks como Spring.
+- **Kotlin**: A principal escolha para quem desenvolve para Android atualmente. Mais moderna e concisa do que Java, perfeita para apps móveis e back-end usando frameworks como Spring.
 
-- **C**: Uma das linguagens mais antigas e eficientes, usada principalmente para programação de sistemas e software de baixo nível. É amplamente utilizada em sistemas operacionais e firmware.
+- **C**: Uma linguagem que te dá controle total do hardware e do sistema. Muito usada em sistemas operacionais, firmware e para aplicações de baixo nível que exigem performance.
 
-- **C++**: Extensão do C, focada em programação orientada a objetos. Usada em jogos, softwares com alta performance, e sistemas de tempo real devido à sua velocidade e controle de hardware.
+- **C++**: Evolução do C, sendo usada para jogos, simulações e sistemas de alta performance. Tem controle total sobre o hardware, sendo essencial quando a velocidade é crítica.
 
 ---
 
@@ -93,11 +92,11 @@
 
 ---
 
-## Minha filosofia 💡
+## Reflita 💡
 
-> "As grandes techs não têm interesse genuíno no bem-estar do consumidor. Por isso, desbloquear o bootloader, fazer root e usar ROMs personalizadas são maneiras de recuperar o controle total sobre o seu dispositivo e otimizar sua experiência."
+> "As **big techs** não estão preocupadas com o que o consumidor realmente precisa. É por isso que eu defendo o desbloqueio de bootloaders, fazer root e customizar ROMs: é assim que você recupera o controle total do seu dispositivo e melhora sua experiência ao máximo."
 
-- **Resumindo:** Eu acredito que a liberdade e o controle sobre nossos dispositivos são essenciais. Não tem nada mais gratificante que personalizar e melhorar a experiência de uso!
+- **Resumindo:** A personalização e a otimização dos nossos dispositivos são fundamentais para mim. Nada mais satisfatório do que transformar algo padrão em uma máquina totalmente adaptada às nossas necessidades.
 
 ---
 
