@@ -1,30 +1,32 @@
 # Fala, rapaziada! 👋
 
-**Leviathan na voz, tamo junto é nóis!** 🔥
+**Leviathan na voz, tamo junto!** 🚀
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=006400&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Leviathan+Kalashnikov+Tech+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=006400&center=true&vCenter=true&random=true&width=524&lines=%E2%8A%B9+Leviathan+Kalashnikov+Tech+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
-## Sobre mim
+---
 
-- 🎥 **Atualmente trabalho com o YouTube**  
-  Criando conteúdo de tecnologia, dicas de software e gadgets.  
-  [Acesse meu canal no YouTube](https://www.youtube.com/@leviathankkjj) 📺
+## Sobre mim 🤖
 
-- 🌱 **Estudante de Engenharia de Software**  
-  Em busca de evolução constante e apaixonado por inovação tecnológica.
+- 🎥 **No YouTube**  
+  Falo sobre tecnologia, software, gadgets e tudo o que envolve o universo tech. [Dá um pulo lá no canal](https://www.youtube.com/@leviathankkjj) 📺
 
-- 🧠 **Minha missão:**  
-  Explorar o mundo da engenharia de software, sem perder o foco no que realmente importa: a experiência do usuário. Acredito que desbloquear o potencial dos dispositivos e otimizar sistemas é o futuro.
+- 🌱 **Engenharia de Software**  
+  Tô na jornada de me tornar um engenheiro de software completo, aprendendo e praticando todo dia. Vamos evoluir juntos!
 
-- 📫 **Contato:** leviathanbusinessofc@outlook.com  
+- 💡 **Filosofia**  
+  Sou apaixonado por otimizar sistemas e dispositivos. Acho que todo mundo deveria ter controle total sobre seu equipamento. Essa parada de desbloquear bootloader, fazer root e usar ROMs personalizadas? Isso sim é libertação! 💥
+
+- 📬 **Me chama!**  
+  Quer bater um papo sobre tech? Só me mandar um e-mail: leviathanbusinessofc@outlook.com ✌️
 
 ---
 
-## Tecnologias que eu domino 💻
+## Tecnologias que curto 💻
 
 <div style="display: inline-block;">
   <img align="center" alt="Levi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -41,7 +43,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=003366&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Minhas+redes+sociais+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=003366&center=true&vCenter=true&random=true&width=524&lines=%E2%8A%B9+Minhas+redes+sociais+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -73,9 +75,10 @@
 
 ## Minha filosofia 💡
 
-🐱‍👤 **"As big techs não têm interesse genuíno no bem-estar do consumidor, por isso, desbloquear o bootloader, fazer root e usar ROMs personalizadas são maneiras de recuperar o controle total sobre o seu dispositivo Android e otimizar sua experiência."**  
-- Acredito que todos devem ter o controle de suas próprias ferramentas tecnológicas.
+> "As grandes techs não têm interesse genuíno no bem-estar do consumidor. Por isso, desbloquear o bootloader, fazer root e usar ROMs personalizadas são maneiras de recuperar o controle total sobre o seu dispositivo e otimizar sua experiência."
+
+- **Resumindo:** Eu acredito que a liberdade e o controle sobre nossos dispositivos são essenciais. Não tem nada mais gratificante que personalizar e melhorar a experiência de uso!
 
 ---
 
-# Vamos nos conectar! 👾
+# Vamos trocar ideia! 👾
