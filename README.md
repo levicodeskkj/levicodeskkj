@@ -1,5 +1,14 @@
 ## Fala, rapaziada! Leviathan na voz, tamo junto é nóis!
 
+##
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=006400&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Leviathan+Kalashnikov+Tech+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+
 - 🔭 Atualmente trabalho com o Youtube
 - 🌱 Estudando Engenharia De software
 - 📫 leviathanbusinessofc@outlook.com
