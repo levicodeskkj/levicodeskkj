@@ -75,7 +75,7 @@
 
 ## Minha filosofia 💡
 
-> "As grandes techs não têm interesse genuíno no bem-estar do consumidor. Por isso, desbloquear o bootloader, fazer root e usar ROMs personalizadas são maneiras de recuperar o controle total sobre o seu dispositivo e otimizar sua experiência."
+> "As big techs não têm interesse genuíno no bem-estar do consumidor. Por isso, desbloquear o bootloader, fazer root e usar ROMs personalizadas são maneiras de recuperar o controle total sobre o seu dispositivo e otimizar sua experiência."
 
 - **Resumindo:** Eu acredito que a liberdade e o controle sobre nossos dispositivos são essenciais. Não tem nada mais gratificante que personalizar e melhorar a experiência de uso!
 
