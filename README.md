@@ -15,14 +15,10 @@
 ## Sobre mim 
 
 -  **YouTube**  
-  Falo sobre **root**, **desbloqueio de bootloader**, **custom ROMs** e **otimização de Android**. Aqui, a ideia é transformar seu dispositivo em algo único e otimizado, sem limites impostos pelas grandes empresas.  
-  [Dá um pulo lá no canal](https://www.youtube.com/@leviathankkjj) 📺
+  Falo sobre **root**, **desbloqueio de bootloader**, **custom ROMs** e **otimização de Android**.
+  [Dá um pulo lá no canal](https://www.youtube.com/@vishkkjota) 📺
 
 -  **Cursando TI**  
-  A tempos aprendendo tudo sobre Android, desbravando sistemas, programação e, claro, como modificar e personalizar dispositivos para tirarem o máximo proveito do que têm.
-
--  **O que penso**  
-  Acredito que, ao fazer root, desbloquear bootloaders e customizar ROMs, recuperamos o controle total sobre os nossos dispositivos. Isso é libertação! Quero sempre otimizar tudo, seja um sistema Android, um computador ou até um código. A liberdade tecnológica é essencial.
 
 -  **Email**  
   Se quiser trocar uma ideia sobre **root**, **Android**, **custom ROMs** ou qualquer outra coisa, me manda um e-mail: [leviathanbusinessofc@outlook.com](mailto:leviathanbusinessofc@outlook.com) ✌️
@@ -65,13 +61,13 @@
 </div>
 
 <div>
-  <a href="https://www.youtube.com/@leviathankkjj" target="_blank">
+  <a href="https://www.youtube.com/@vishkkjota" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/mrclxzz.7/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://t.me/acabara" target="_blank">
+  <a href="https://t.me/sonhodafederal" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.com/users/levikalshnikovkkj" target="_blank">
@@ -90,12 +86,10 @@
 
 ---
 
-## Reflita 💡
+## Reflita...
 
-> "As **big techs** não estão preocupadas com o que o consumidor realmente precisa. É por isso que eu defendo o desbloqueio de bootloaders, fazer root e customizar ROMs: é assim que você recupera o controle total do seu dispositivo e melhora sua experiência ao máximo."
+> "As **big techs** não estão preocupadas com o que o consumidor realmente precisa. É por isso que eu defendo o desbloqueio de bootloaders, fazer root e ROMs customizadas: é assim que você recupera o controle total do seu dispositivo e melhora sua experiência ao máximo."
 
-- **Resumindo:** A personalização e a otimização dos nossos dispositivos são fundamentais para mim. Nada mais satisfatório do que transformar algo padrão em uma máquina totalmente adaptada às nossas necessidades.
 
----
 
-# Vamos trocar ideia! 👾
+# Bora trocar ideia!!!
