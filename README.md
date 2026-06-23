@@ -12,19 +12,19 @@
 
 ---
 
-## Sobre mim 🤖
+## Sobre mim 
 
-- 🎥 **YouTube**  
+-  **YouTube**  
   Falo sobre **root**, **desbloqueio de bootloader**, **custom ROMs** e **otimização de Android**. Aqui, a ideia é transformar seu dispositivo em algo único e otimizado, sem limites impostos pelas grandes empresas.  
   [Dá um pulo lá no canal](https://www.youtube.com/@leviathankkjj) 📺
 
-- 👻 **Cursando TI**  
+-  **Cursando TI**  
   A tempos aprendendo tudo sobre Android, desbravando sistemas, programação e, claro, como modificar e personalizar dispositivos para tirarem o máximo proveito do que têm.
 
-- 🧙‍♂️ **O que penso**  
+-  **O que penso**  
   Acredito que, ao fazer root, desbloquear bootloaders e customizar ROMs, recuperamos o controle total sobre os nossos dispositivos. Isso é libertação! Quero sempre otimizar tudo, seja um sistema Android, um computador ou até um código. A liberdade tecnológica é essencial.
 
-- 📬 **Email**  
+-  **Email**  
   Se quiser trocar uma ideia sobre **root**, **Android**, **custom ROMs** ou qualquer outra coisa, me manda um e-mail: [leviathanbusinessofc@outlook.com](mailto:leviathanbusinessofc@outlook.com) ✌️
 
 ---
